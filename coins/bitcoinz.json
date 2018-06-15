@@ -1,0 +1,8 @@
+{
+    "name": "BitcoinZ",
+    "symbol": "BTCZ",
+    "algorithm": "equihash144_5",
+    "requireShielding": true,
+    "peerMagic": "24e92764",
+    "txfee": 0.0004
+}
